@@ -30,5 +30,5 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Follow me around the web:</i><br>
 
 <a href="https://open.spotify.com/user/cohohohn04" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
+<a href="https://www.instagram.com/_coho04_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
