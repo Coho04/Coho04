@@ -17,7 +17,6 @@ You've finally discovered my GitHub profile! Feel free to clone/fork projects, r
 ### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
