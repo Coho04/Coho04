@@ -28,6 +28,7 @@ You've finally discovered my GitHub profile! Feel free to clone/fork projects, r
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-00000F?style=for-the-badge&logo=swift&logoColor=orange)
+![Dart](https://img.shields.io/badge/Dart-00000F?style=for-the-badge&logo=dart&logoColor=blue)
 
 ### Development Tools
 
