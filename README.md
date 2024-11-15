@@ -2,7 +2,7 @@
 
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
 
-You've finally discovered my GitHub profile! Feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. Ask me anything [here](https://discord.gg/Q2zVHjYH8Y).
+You've finally discovered my Profile! Feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. Ask me anything [here](https://discord.gg/Q2zVHjYH8Y).
 
 *Happy Coding!* 😊
 
