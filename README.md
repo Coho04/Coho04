@@ -29,6 +29,7 @@ You've finally discovered my Profile! Feel free to clone/fork projects, raise is
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-00000F?style=for-the-badge&logo=swift&logoColor=orange)
 ![Dart](https://img.shields.io/badge/Dart-00000F?style=for-the-badge&logo=dart&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-00000F?style=for-the-badge&logo=typescript&logoColor=blue)
 
 ### Development Tools
 
